@@ -1,1 +1,1 @@
-Sitio web SigueRodando preparado. Subir los archivos a un repositorio GitHub y activar GitHub Pages.
+Este es el paquete final completo de SigueRodando. Sube todos estos archivos y carpetas a tu repositorio GitHub y activa GitHub Pages. Reemplaza los placeholders de imagen por los archivos reales.
