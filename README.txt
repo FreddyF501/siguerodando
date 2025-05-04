@@ -1,1 +1,1 @@
-Este es el paquete final completo de SigueRodando. Sube todos estos archivos y carpetas a tu repositorio GitHub y activa GitHub Pages. Reemplaza los placeholders de imagen por los archivos reales.
+Este es el paquete final de SigueRodando usando la plantilla Shop con carrusel. Sube todo a GitHub y reemplaza las imágenes por las reales.
